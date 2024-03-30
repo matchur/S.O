@@ -3,7 +3,7 @@ Autor: Matheus Vinicius da Costa
 Criação: 30/03/2024 
 Att: 30/03/2024
 
-Descricao: Esse code cria um vetor e então cra processos que estão dividos igualmente
+Descricao: Esse code cria um vetor e divide funçoes para processos 
 dentro do vetor, cada processo tem a função de encontrar um item dentro do vetor, 
 caso encontre ele vai exibir uma mensagem
 
